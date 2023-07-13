@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.dfa7941e.css",
-    "main.js": "/static/js/main.91aaf2ad.js",
-    "static/js/787.83a006ac.chunk.js": "/static/js/787.83a006ac.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.dfa7941e.css.map": "/static/css/main.dfa7941e.css.map",
-    "main.91aaf2ad.js.map": "/static/js/main.91aaf2ad.js.map",
-    "787.83a006ac.chunk.js.map": "/static/js/787.83a006ac.chunk.js.map"
+    "main.css": "/Niti-Caroussel/static/css/main.dfa7941e.css",
+    "main.js": "/Niti-Caroussel/static/js/main.ab92e1a3.js",
+    "static/js/787.83a006ac.chunk.js": "/Niti-Caroussel/static/js/787.83a006ac.chunk.js",
+    "static/media/logo.svg": "/Niti-Caroussel/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Niti-Caroussel/index.html",
+    "main.dfa7941e.css.map": "/Niti-Caroussel/static/css/main.dfa7941e.css.map",
+    "main.ab92e1a3.js.map": "/Niti-Caroussel/static/js/main.ab92e1a3.js.map",
+    "787.83a006ac.chunk.js.map": "/Niti-Caroussel/static/js/787.83a006ac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dfa7941e.css",
-    "static/js/main.91aaf2ad.js"
+    "static/js/main.ab92e1a3.js"
   ]
 }
