@@ -6,15 +6,16 @@ import left from './left.png'
 import right from './right.png'
 
 const items=[
-    {"bg":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLgSe8zEmZ2euawwCNvEAorPYWzQpMmjAs2A&usqp=CAU","ind":1},
-    {"bg":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmSDC9g5Sm6RbHfpWBWBzpcE8Ij_IuE8A9rg&usqp=CAU","ind":2},
-    {"bg":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZpbYW6AZEi9kBsLu144BVXqRQnNeYRsindQ&usqp=CAU","ind":3},
-    {"bg":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4gmL0GYkEAAj5xQ8lETqUL5WpmHS5gS_S7g&usqp=CAU","ind":4},
-    {"bg":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXBnOmSeaH3PbUecbNCux6ZmLMEQ6pGvD3hBwG_jW5_8knwadJPcv_B31fmyyqCfCEyPg&usqp=CAU","ind":5},
-    {"bg":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0wIGtQWjjnMgsqtE9SdYD4G7oISnsvXRAwnDeLziRlR6DOjrEIoR9Rrof63rJRTu3u10&usqp=CAU","ind":6},
-    {"bg":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyP4FjPKDfCrXwZTYzHqDvf0zJxe19yom1JQ&usqp=CAU","ind":7},
-    {"bg":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa0qRvP6DyjjnArIOZV_HAEW6bYabDH2KpYg&usqp=CAU","ind":8},
-    {"bg":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR40Gpni3ijAcIiDDFwewjEhdn-B05DzV1XmA&usqp=CAU","ind":9},
+    {"bg":"https://w0.peakpx.com/wallpaper/251/466/HD-wallpaper-ronaldo-with-nations-league-trophy-ronaldo-nations-league-trophy-sports-athlete-footballer.jpg","ind":1},
+    {"bg":"https://e0.pxfuel.com/wallpapers/429/229/desktop-wallpaper-virat-kohli-on-twitter-virat-kohli-cricket-cricket-virat-kohli-cartoon.jpg","ind":2},
+    {"bg":"https://e0.pxfuel.com/wallpapers/710/324/desktop-wallpaper-ultra-lock-screen-ms-dhoni.jpg","ind":3},
+    {"bg":"https://w0.peakpx.com/wallpaper/384/965/HD-wallpaper-sunil-chhetri-abstract-art-india-national-team-soccer-footballers-chhetri-neon-lights-indian-football-team.jpg","ind":4},
+    {"bg":"https://wallpapercave.com/wp/wp9719030.jpg","ind":5},
+    {"bg":"https://images.hdqwalls.com/download/sachin-tendulkar-1125x2436.jpg","ind":6},
+    {"bg":"https://besthqwallpapers.com/Uploads/11-4-2022/197753/thumb2-kevin-de-bruyne-4k-2022-manchester-city-fc-blue-neon-lights.jpg","ind":7},
+    
+    {"bg":"https://w0.peakpx.com/wallpaper/60/877/HD-wallpaper-suresh-raina-india-raina-suresh-raina.jpg","ind":8},
+    {"bg":"https://i2-prod.football.london/incoming/article21584976.ece/ALTERNATES/s1200c/0_Jude-Bellingham.jpg","ind":9},
 
 
 ];
